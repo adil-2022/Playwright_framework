@@ -1,0 +1,3 @@
+testName,email,password,expected
+Valid login,adil.boumaalif@gmail.com,safi@1985,success
+Invalid login,abcxyz@xyz.com,abcxyx,failure
