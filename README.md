@@ -1,5 +1,6 @@
 This is a Playwright framework project using POM design pattern and Data Driven Testing.
 The code is with Typescript, the reports is with Allure report.
+We use Github Actions to do CI integration.
 
 //
 
